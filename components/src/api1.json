@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 19.0275,
+    "lat": 50.2584
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 2.96,
+    "feels_like": 1.86,
+    "temp_min": 1.54,
+    "temp_max": 3.82,
+    "pressure": 1030,
+    "humidity": 38
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.34,
+    "deg": 241,
+    "gust": 2.68
+  },
+  "clouds": {
+    "all": 10
+  },
+  "dt": 1647076608,
+  "sys": {
+    "type": 2,
+    "id": 2020678,
+    "country": "PL",
+    "sunrise": 1647061486,
+    "sunset": 1647103368
+  },
+  "timezone": 3600,
+  "id": 3096472,
+  "name": "Katowice",
+  "cod": 200
+}
